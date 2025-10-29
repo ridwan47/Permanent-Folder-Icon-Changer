@@ -1,12 +1,3 @@
-# Permanent-Folder-Icon-Changer
-Permanent Folder Icon Changer lets you easily set and keep custom icons for any folder. It copies the chosen icon into the folder, applies it permanently, and logs every action. Supports drag &amp; drop, multi-folder scanning, and right-click menu integration for quick access. Reliable, simple, and permanent.
-
-
-
-Here’s a **ready-to-use README / Description** for your `.exe` version of the batch file. It’s written in a professional and informative tone but still approachable — suitable for inclusion on GitHub, a release page, or a “ReadMe.txt” next to the executable.
-
----
-
 # 🗂️ Permanent Folder Icon Changer
 
 **by ridwan47**
