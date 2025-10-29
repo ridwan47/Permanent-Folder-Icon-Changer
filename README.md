@@ -11,6 +11,8 @@ Here’s a **ready-to-use README / Description** for your `.exe` version of the 
 
 **by ridwan47**
 
+<img width="256" height="256" alt="icon-0" src="https://github.com/user-attachments/assets/a1b7cf11-d3af-4381-8936-13fecf29f158" />
+
 ## 📘 Overview
 
 **Permanent Folder Icon Changer** is a powerful, menu-driven Windows utility that allows you to **change and permanently set custom icons for any folder** on your system.
@@ -96,17 +98,6 @@ To remove it later:
 * Administrator privileges (for context menu setup)
 * PowerShell (for folder and file browsing GUI)
 
----
-
-## 📦 Included Files
-
-| File                                | Description                                     |
-| ----------------------------------- | ----------------------------------------------- |
-| `Permanent Folder Icon Changer.exe` | Main program (compiled from batch)              |
-| `resources\FolderIconUpdater.exe`   | Required component for setting icons            |
-| `icon.ico`                          | Optional icon used for context menu integration |
-
----
 
 ## 🛠️ Troubleshooting
 
@@ -129,13 +120,3 @@ To remove it later:
 Developed and maintained by **ridwan47**
 Modified version includes permanent icon copying logic and enhanced debug system.
 Based on components from [Folder Icon Updater](https://github.com/ramdany7/Folder-Icon-Updater).
-
----
-
-## 💡 Tip
-
-Keep this tool somewhere permanent (like `C:\Tools\FolderIconChanger\`) so context menu paths remain valid.
-
----
-
-Would you like me to make a **compact “ReadMe.txt” version** (same content but formatted for Notepad width — ~80 characters wide)? It would look clean and ready to include beside your `.exe`.
