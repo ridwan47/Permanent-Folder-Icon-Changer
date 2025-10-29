@@ -9,7 +9,7 @@ Here’s a **ready-to-use README / Description** for your `.exe` version of the 
 
 # 🗂️ Permanent Folder Icon Changer
 
-**by ridwan47 (Modified Edition — Always Copies Icons)**
+**by ridwan47**
 
 ## 📘 Overview
 
